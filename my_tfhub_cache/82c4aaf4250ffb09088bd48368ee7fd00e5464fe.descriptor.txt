@@ -1,0 +1,3 @@
+Module: https://tfhub.dev/google/tf2-preview/nnlm-en-dim50/1
+Download Time: 2020-02-05 11:26:20.092143
+Downloader Hostname: tensorflow-20200205-110323 (PID:1674)
